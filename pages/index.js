@@ -19,7 +19,6 @@ export async function getStaticProps() {
 }
 
 export default function Home({hero}) {
-  console.log(hero)
   const { ctaButtonLink, 
           paragraph, 
           principalHeading, 
