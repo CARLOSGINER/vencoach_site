@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 
 body {
-  background: #F4E640;
+  background: #ececec;
   margin: 0;
   font-family: 'Roboto';
   font-size: 1.5em;  
@@ -13,7 +13,7 @@ body {
 }
 header {
   text-align: center;
-  margin: 60px 0;
+  margin: 10px 0;
 }
 header a {
   text-decoration: none;
@@ -21,36 +21,52 @@ header a {
   text-transform: uppercase;
   display: inline-block;
 }
+
+header h1 {
+  color: cadetblue;
+}
+
+header h2 {
+  font-size: 1rem;
+  color: rgb(0, 0, 0);
+}
+
 header h1, header h2 {
-  margin: 0;
+  margin: 2rem;
 }
 header span {
   display: block;
   line-height: 1em;
 }
 header span:first-child {
-  font-size: 1em;
+  font-size: 0.5em;
   font-weight: 400;
+  margin-bottom: 1rem;
 }
 header span:last-child {
   font-size: 1.5em;
   font-weight: 800;
 }
-header h2 {
-  font-size: 1.2em;
-  font-weight: 400;
-}
+
 footer {
-  background: #111;
+  background: rgb(0, 0, 0);
   color: #bbb;
-  padding: 40px;
   text-align: center;
   margin-top: auto
 }
+
+footer p{
+ font-size: 1rem;
+}
+
 .page-content {
   max-width: 1200px;
   margin: 20px auto 80px;
   padding: 0 20px;
   width: 100%;
   box-sizing: border-box;
+}
+
+.hero-container p{
+  font-size: 0.8rem;
 }
