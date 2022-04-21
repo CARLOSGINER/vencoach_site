@@ -1,13 +1,23 @@
 # VENCOACH SITE REPOSITORY 
 
-Git clone this repository, then install modules dependencies:
+Profesional coaching, website showcase for client. Made with a headless Architecture, retrieving all content data from Contentfull headless CMS API. That way the modification could be remote, and withut previous code knowledge.
 
-```bash
-yarn 
-```
+:octocat: [Visit Webpage Here!](https://website-e8tu9w219-vencoach.vercel.app/)
 
-Then run the server with: 
+> **AUTHOR**
 
-```bash
-yarn dev 
-```
+    Carlos Giner
+
+> **APPLIED TECHNOLOGIES**
+
+      - [x] HTML
+      - [x] CSS/ SASS
+      - [x] REACT
+
+
+> **PENDING TO DO**
+
+    - Rest of pages
+
+__________________________________________________________________________________________________________________________________________________________________________________
+Carlos Giner © copyright 2022
