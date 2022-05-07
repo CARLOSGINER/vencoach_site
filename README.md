@@ -15,7 +15,7 @@ Profesional coaching, website showcase for client. Made with a headless Architec
       - [x] REACT
 
 
-> ** IN DEVELOPMENT**
+> **IN DEVELOPMENT**
 
     - 50% Finished
 
