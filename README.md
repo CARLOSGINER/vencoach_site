@@ -2,7 +2,7 @@
 
 Profesional coaching, website showcase for client. Made with a headless Architecture, retrieving all content data from Contentfull headless CMS API. That way the modification could be remote, and withut previous code knowledge.
 
-:octocat: [Visit Webpage Here!](https://website-e8tu9w219-vencoach.vercel.app/)
+:octocat: [Visit Webpage Here!](https://website-dqemosnwz-vencoach.vercel.app/ )
 
 > **AUTHOR**
 
@@ -15,9 +15,9 @@ Profesional coaching, website showcase for client. Made with a headless Architec
       - [x] REACT
 
 
-> **PENDING TO DO**
+> ** IN DEVELOPMENT**
 
-    - Rest of pages
+    - 50% Finished
 
 __________________________________________________________________________________________________________________________________________________________________________________
 Carlos Giner © copyright 2022
